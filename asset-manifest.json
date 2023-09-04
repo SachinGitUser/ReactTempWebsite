@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactTempWebsite/static/css/main.08cf9d93.css",
+    "main.js": "/ReactTempWebsite/static/js/main.38a5a1fc.js",
+    "static/media/movie.png": "/ReactTempWebsite/static/media/movie.22e7b9574691c51be5b3.png",
+    "static/media/web1heroku.png": "/ReactTempWebsite/static/media/web1heroku.3d12f8c3f789e7579320.png",
+    "static/media/React.png": "/ReactTempWebsite/static/media/React.8a6fc0a24a800d1e0f4a.png",
+    "static/media/Python.png": "/ReactTempWebsite/static/media/Python.82efb64f8698a267f8bf.png",
+    "static/media/hardwork.jpg": "/ReactTempWebsite/static/media/hardwork.2321788d0202c720260a.jpg",
+    "static/media/web2.png": "/ReactTempWebsite/static/media/web2.05be6a01065733813c4f.png",
+    "static/media/html.png": "/ReactTempWebsite/static/media/html.a8af86ad671a4d1b585b.png",
+    "static/media/dumbell.jpg": "/ReactTempWebsite/static/media/dumbell.aecab7323bab1d870360.jpg",
+    "static/media/css.png": "/ReactTempWebsite/static/media/css.bee63b9e863f48d93bda.png",
+    "static/media/django.png": "/ReactTempWebsite/static/media/django.a5aaa412df3c52f5f6bf.png",
+    "static/media/opencv.png": "/ReactTempWebsite/static/media/opencv.816a0419170ad3e1581d.png",
+    "static/media/tailwind.png": "/ReactTempWebsite/static/media/tailwind.9bff1085bc1e2a0cff89.png",
+    "static/media/coder.png": "/ReactTempWebsite/static/media/coder.f0727d4fcad66c17842f.png",
+    "index.html": "/ReactTempWebsite/index.html",
+    "main.08cf9d93.css.map": "/ReactTempWebsite/static/css/main.08cf9d93.css.map",
+    "main.38a5a1fc.js.map": "/ReactTempWebsite/static/js/main.38a5a1fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08cf9d93.css",
+    "static/js/main.38a5a1fc.js"
+  ]
+}
